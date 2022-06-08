@@ -1,4 +1,4 @@
-![Hi, I'm Cristian](https://github.com/Ferraggina/cristianFerra-main/main/assets/hi.gif)
+![Hi, I'm Cristian](https://github.com/Ferraggina/cristianFerra-main/assets/hi.gif)
 
 <h2 align="center">
 Full Stack Developer :heart: from Argentina to :earth_americas:
