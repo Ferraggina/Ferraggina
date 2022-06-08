@@ -31,21 +31,21 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
 
 <h3>E-commerce</h3>
 <p>
-  <a><img src="images/ecommerce/home.png"></a>
-  <a><img src="images/ecommerce/catalogo.png"></a>
+  <a><img width="40%" src="images/ecommerce/home.png"></a>
+  <a><img width="40%" src="images/ecommerce/catalogo.png"></a>
  
 </p>
 <p>
-  <a><img src="images/ecommerce/carrito.png"></a>
-  <a><img src="images/ecommerce/reviews.png"></a>
-  <a><img src="images/ecommerce/average.png"></a>
+  <a><img width="40%" src="images/ecommerce/carrito.png"></a>
+  <a><img width="40%" src="images/ecommerce/reviews.png"></a>
+  <a><img width="40%" src="images/ecommerce/average.png"></a>
 </p>
 
 <h3>Pokemons</h3>
 <p>
-  <a><img src="images/pokemon/tabla.jpg"></a>
-  <a><img src="images/pokemon/nuevoprod.png"></a>
-  <a><img src="images/pokemon/imagen.png"></a>
+  <a><img width="40%" src="images/pokemon/tabla.jpg"></a>
+  <a><img width="40%" src="images/pokemon/nuevoprod.png"></a>
+  <a><img width="40%" src="images/pokemon/imagen.png"></a>
 </p> 
 &nbsp;
 
